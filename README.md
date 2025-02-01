@@ -3,7 +3,5 @@
 some description <br>
 I am in VScode commiting change.
 
-## Local Development
-1. Open index.html in your browser.
-
-test push
+# Personal Project
+A website project about photo studio business.
